@@ -1,5 +1,5 @@
 # DEPRECATED
-
+just a test fork
 The full node reference implementation was [rewritten in Rust](https://github.com/kaspanet/rusty-kaspa), as a result, the Go implementation is now deprecated.
 
 PLEASE NOTE: Any pull requests or issues that will be opened in this repository will be closed without treatment, except for issues or pull requests related to the kaspawallet, which remains maintained. In any other case, please use the [Rust implementation](https://github.com/kaspanet/rusty-kaspa) instead.
